@@ -10,11 +10,3 @@ shop72hour
 
 2.修改'/config/db.config.php'中的配置信息，建议使用mysql数据库，
 这样的话需要修改的信息为"username"，"password"，"dbname"。
-
-## 了解更多：
-
-http://www.xuhaixiao.com/shop72hour/
-
-## 前台演示地址：
-
-http://demo.xuhaixiao.com/shop72hour/
